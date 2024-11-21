@@ -18,7 +18,7 @@ class Triangle extends Shape {
 
     @Override
     public double area() {
-        double s = perimeter() / 2;  // semi-perimeter
+        double s = perimeter() / 2;
         return Math.sqrt(s * (s - side1) * (s - side2) * (s - side3));
     }
 
