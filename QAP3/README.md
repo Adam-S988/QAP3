@@ -7,10 +7,10 @@ Answers to Questions:
 2. I used lecture notes, previous QAPs, ChatGPT, and a brief session with Jordan.
 3. Bradley Ayers helped me insert images into this README.
 4. While I didn't so much as ask, Jordan helped cover the basics of one element of Java.
-5. Problem 1: Moderately Difficult: I might be able to do something like this again realatively easily.
-   Problem 2: Moderately Difficult (but slightly more difficult than Problem 1): I might be able to do something like this again realatively easily.
+5. Problem 1: Moderately Difficult: I might be able to do something like this again relatively easily.
+   Problem 2: Moderately Difficult (but slightly more difficult than Problem 1): I might be able to do something like this again relatively easily.
    Problem 3: Very Difficult: I probably wouldn't be able to do something like this again without a massive amount of help.
-   Problem 4: Moderately Difficult: I might be able to do something like this again realatively easily.
+   Problem 4: Moderately Difficult: I might be able to do something like this again relatively easily.
 
 Images of the Output:
 1. <img width="1277" alt="Screenshot 2024-11-21 at 4 22 32 PM" src="https://github.com/user-attachments/assets/efccbcb2-23d5-4c40-975c-38d19f4763b0">
